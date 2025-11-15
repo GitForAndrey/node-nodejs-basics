@@ -1,3 +1,1 @@
-# Node.js basics
-
-## !!! Please don't submit Pull Requests to this repository !!!
+Загрузил проект некорректно, файлы из папки File-Manager запускайте, проект там!!!
